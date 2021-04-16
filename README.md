@@ -5,6 +5,10 @@ https://rinkeby.etherscan.io/address/0x8dbbd010B0B4B215C07feF16FEa9dA4Ea8e3FfA1#
 # subgraph:
 https://thegraph.com/explorer/subgraph/dynamiculture/dnycv
 
+balances on etherscan:
+
+https://rinkeby.etherscan.io/token/0x8dbbd010B0B4B215C07feF16FEa9dA4Ea8e3FfA1
+
 # References
 https://thegraph.com/docs/introduction
 
