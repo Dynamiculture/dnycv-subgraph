@@ -7,4 +7,5 @@ https://thegraph.com/explorer/subgraph/dynamiculture/dnycv
 
 # References
 https://thegraph.com/docs/introduction
+
 https://github.com/prisma-labs/graphql-request
