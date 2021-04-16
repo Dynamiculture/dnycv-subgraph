@@ -1,5 +1,5 @@
 {
-  "name": "dnycv",
+  "name": "dnycv-subgraph",
   "license": "UNLICENSED",
   "scripts": {
     "codegen": "graph codegen",

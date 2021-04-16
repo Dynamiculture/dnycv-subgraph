@@ -1,6 +1,5 @@
-type ExampleEntity @entity {
+type AccountTokenBalance @entity {
   id: ID!
-  count: BigInt!
-  owner: Bytes! # address
-  spender: Bytes! # address
+  token: String!
+  balance: BigInt!
 }
